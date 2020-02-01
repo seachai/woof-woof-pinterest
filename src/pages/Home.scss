@@ -1,0 +1,11 @@
+.container {
+  margin: 0 auto;
+  max-width: 1140px;
+  .title {
+    text-align: center;
+    font-size: 2.4rem;
+    span {
+      font-size: 14rem;
+    }
+  }
+}
