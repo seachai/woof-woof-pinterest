@@ -10,6 +10,7 @@ const Home = () => {
         <span role="img" aria-label="doggy">
           🐶
         </span>
+        <br />
       </h1>
       <Cards />
     </section>
